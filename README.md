@@ -1,3 +1,2 @@
 # nesg-jumpstart-kit
-NESG Jumpstart Kit
-NESG Jumpstart kit supports both the consumer and producer clients. 
+NESG Jumpstart kit for NESG users connecting to SWIM. 
