@@ -1,2 +1,2 @@
-# nesg-jumpstart-kit
-NESG Jumpstart kit for NESG users connecting to SWIM. 
+# JmsJumpStartKit-6.17.1.zip
+JmsJumpStartKit-6.17.1.zip is the new Jumpstart kit for users connecting to SWIM. 
